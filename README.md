@@ -1,5 +1,5 @@
 # Epl 93-18 data analysis
- answering some queries  with pandas along with some visualisation with  matplotlib python libraries using the data that conatains epl game results between 1993-18 
+ answering some queries  with pandas along with some visualisation with  matplotlib python libraries using the data that contains epl game results between 1993-18 
  
  among this questions:
  
